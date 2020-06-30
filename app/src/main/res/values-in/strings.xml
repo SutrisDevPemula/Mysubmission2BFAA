@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">02-MyGithubUser</string>
+    <string name="search">Cari</string>
+    <string name="changeLanguage">Ubah pengaturan bahasa</string>
+    <string name="image_octocat">image Octocat</string>
+    <string name="hint">Inputkan nama user . . .</string>
+    <string name="textName">Narendra Wicaksono</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="repositori">Repositori</string>
+    <string name="followers">Pengikut</string>
+    <string name="followings">Mengikuti</string>
+</resources>

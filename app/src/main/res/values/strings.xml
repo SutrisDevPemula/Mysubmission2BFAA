@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">02-MyGithubUser</string>
+    <string name="search">Search</string>
+    <string name="changeLanguage">Change language setting</string>
+    <string name="image_octocat">image Octocat</string>
+    <string name="hint">Enter the user name . . .</string>
+    <string name="textName">Narendra Wicaksono</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repositori">Repositori</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
+</resources>
