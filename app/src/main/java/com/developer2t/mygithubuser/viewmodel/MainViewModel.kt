@@ -27,7 +27,7 @@ class MainViewModel : ViewModel() {
             LIST -> url = "https://api.github.com/search/users?q=sutris"
             SEARCH -> url = "https://api.github.com/search/users?q=${query}"
         }
-
+    
         val listItem = ArrayList<UserModel>()
         val asyncClient = AsyncHttpClient()
         asyncClient.addHeader("Authorization", API_KEY)

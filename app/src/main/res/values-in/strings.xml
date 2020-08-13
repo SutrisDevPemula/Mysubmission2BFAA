@@ -11,4 +11,6 @@
     <string name="repositori">Repositori</string>
     <string name="followers">Pengikut</string>
     <string name="followings">Mengikuti</string>
+    <string name="packag">Packages</string>
+    <string name="projects">Projects</string>
 </resources>

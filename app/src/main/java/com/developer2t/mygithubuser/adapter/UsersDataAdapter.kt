@@ -45,7 +45,6 @@ class UsersDataAdapter : RecyclerView.Adapter<UsersDataAdapter.ListViewHolder>()
                 tv_username.text = users.username
                 tv_id.text = users.id
 
-//                val intent2 = Intent(context, FollowersFragment::class.java)
                 itemView.setOnClickListener {
                     val intent = Intent(context, DetailUser::class.java)
                     intent.putExtra(DetailUser.EXTRA_USER, users.username)

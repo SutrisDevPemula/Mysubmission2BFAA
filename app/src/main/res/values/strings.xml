@@ -10,4 +10,6 @@
     <string name="repositori">Repositori</string>
     <string name="followers">Followers</string>
     <string name="followings">Followings</string>
+    <string name="packag">Packages</string>
+    <string name="projects">Projects</string>
 </resources>

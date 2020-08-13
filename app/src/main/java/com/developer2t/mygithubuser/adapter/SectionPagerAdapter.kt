@@ -19,6 +19,7 @@ class SectionPagerAdapter(
     private val titles = intArrayOf(
         R.string.followers,
         R.string.followings
+
     )
 
     override fun getItem(position: Int): Fragment {
